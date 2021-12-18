@@ -20,6 +20,6 @@ pip3 install flask && python3 server.py
 
 ## Direct live demo 🎬
 
-<https://raw.githack.com/m4n50n/conditional_profile_card/main/index.html>
+<https://raw.githack.com/m4n50n/conditional_profile_card_exercise/main/index.html>
 
 💻 _Jose Clemente García Rodríguez_ (<https://github.com/m4n50n>)
